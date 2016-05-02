@@ -1,0 +1,5 @@
+Primeros Pasos
+**************
+Se ingresan los datos del alumno y/o del grupo.
+Se plantea un tema en el cual se enfocara el proyecto.
+Se crea un indice que servira como guia para el trabajo.
