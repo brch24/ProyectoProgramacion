@@ -3,3 +3,13 @@ Primeros Pasos
 Se ingresan los datos del alumno y/o del grupo.
 Se plantea un tema en el cual se enfocara el proyecto.
 Se crea un indice que servira como guia para el trabajo.
+
+Segundo Paso
+************
+Redactamos una introduccion al Proyecto.
+Añadimos LA MISION de nuestro proyecto.
+Añadimos LA VISION del proyecto.
+Colocamos los organigramas.
+
+
+
