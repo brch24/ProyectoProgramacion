@@ -11,5 +11,13 @@ Añadimos LA MISION de nuestro proyecto.
 Añadimos LA VISION del proyecto.
 Colocamos los organigramas.
 
+Tercer Paso
+***********
+Se hace la clasificacion del Proceso.
+Agregamos el listado de la problematica en ciertos puntos.
+Se añade los requerimientos funcionales.
+Insertamos los diagramas de modelo de dominio.
+Se añaden los anexos.
+
 
 
